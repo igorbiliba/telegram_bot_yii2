@@ -1,3 +1,5 @@
-### Crontab
-- */1 * * * * /usr/bin/php ~/www/bot.n3.by/yii ticket/checkpaid
-- */1 * * * * /usr/bin/php ~/www/bot.n3.by/yii ticket/checkcancel
+Telegram-бот
+=====================
+
+### Бот для
+- https://github.com/ninetor/host_exchage_cs
